@@ -1,0 +1,1 @@
+# -Kubernetes_latest_manifest
